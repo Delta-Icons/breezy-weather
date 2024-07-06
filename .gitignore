@@ -43,4 +43,4 @@ bin/
 /captures
 /local.properties
 *.jks
-/app/relese/*
+/app/release/*
