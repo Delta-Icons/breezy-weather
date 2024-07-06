@@ -1,4 +1,4 @@
-<h1 align="center">Pixel Icon Provider</h1>
+<h1 align="center">Delta Icon Provider</h1>
 
 ![Icon](fastlane/metadata/android/en-US/images/icon.png)
 
