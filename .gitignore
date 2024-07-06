@@ -42,3 +42,5 @@ bin/
 /currentPosition.properties
 /captures
 /local.properties
+*.jks
+/app/relese/*
