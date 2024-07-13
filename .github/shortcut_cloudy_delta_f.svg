@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="768" height="768" version="1.1" viewBox="0 0 203.2 203.2" xmlns="http://www.w3.org/2000/svg">
+ <rect width="203.2" height="203.2" style="fill:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:5.2916"/>
+ <g transform="matrix(2.667 0 0 2.667 33.86 33.857)">
+  <g transform="matrix(.96253 0 0 .96253 -68.69 9.8167)">
+   <circle cx="102.12" cy="16.19" r="8.824" style="fill:#ccc;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1101"/>
+   <rect x="84.559" y="13.805" width="21.768" height="11.209" rx="0" ry="5.6045" style="fill:#ccc;stroke-linecap:round;stroke-linejoin:round;stroke-width:.98524"/>
+  </g>
+ </g>
+</svg>

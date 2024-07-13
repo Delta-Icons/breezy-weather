@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192" height="192" version="1.1" viewBox="0 0 50.8 50.8" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="25.4" cy="25.4" r="23.283" style="fill:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:6.5972"/>
+ <g transform="matrix(.43337 0 0 .43337 10.116 10.723)" style="fill:#728dbe">
+  <path d="m28.263 4.5805a29.772 29.772 0 0 0-22.3 28.799 29.772 29.772 0 0 0 29.773 29.773 29.772 29.772 0 0 0 28.838-22.445 28.602 28.602 0 0 1-9.2015 1.5405 28.602 28.602 0 0 1-28.602-28.602 28.602 28.602 0 0 1 1.4929-9.065z" style="fill:#728dbe;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.326"/>
+ </g>
+ <g transform="matrix(.7291 0 0 .7291 5.4091 13.304)">
+  <g transform="matrix(.96253 0 0 .96253 -68.69 9.8167)">
+   <circle cx="102.12" cy="16.19" r="8.824" style="fill:#ccc;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1101"/>
+   <rect x="84.559" y="13.805" width="21.768" height="11.209" rx="0" ry="5.6045" style="fill:#ccc;stroke-linecap:round;stroke-linejoin:round;stroke-width:.98524"/>
+  </g>
+ </g>
+</svg>

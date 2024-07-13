@@ -2,7 +2,7 @@
 
 ![Icon](fastlane/metadata/android/en-US/images/icon.png)
 
-Open source rewrite of Geometric Weather Pixel Icon Provider for use in Breezy Weather with the use of Delta colors.
+Open source icon pack for use in Breezy Weather with the use of Delta colors.
 
 [Download from releases page](https://github.com/Delta-Icons/BreezyWeatherIcons/releases)
 

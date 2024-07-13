@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256" height="256" version="1.1" viewBox="0 0 67.733 67.733" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(2.3134 0 0 2.3134 -24.891 -24.891)">
+  <g transform="matrix(1.1159,0,0,1.1159,-2.9449,-1.4726)">
+   <g transform="matrix(.83639 0 0 .83639 4.1567 -1.4405)">
+    <g transform="matrix(.96253 0 0 .96253 -68.69 9.8167)">
+     <circle cx="102.12" cy="16.19" r="8.824" style="fill:#ccc;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1101"/>
+     <rect x="84.559" y="13.805" width="21.768" height="11.209" rx="0" ry="5.6045" style="fill:#ccc;stroke-linecap:round;stroke-linejoin:round;stroke-width:.98524"/>
+    </g>
+   </g>
+   <path d="m22.634 29.606v2.1415" style="fill:#728dbe;stroke-linecap:round;stroke-linejoin:round;stroke-width:.52917;stroke:#a0a5af"/>
+   <path d="m23.561 30.141-1.8546 1.0707" style="fill:#728dbe;stroke-linecap:round;stroke-linejoin:round;stroke-width:.52917;stroke:#a0a5af"/>
+   <path d="m23.561 31.212-1.8546-1.0707" style="fill:#728dbe;stroke-linecap:round;stroke-linejoin:round;stroke-width:.52917;stroke:#a0a5af"/>
+   <path d="m28.201 29.606v2.1415" style="fill:#728dbe;stroke-linecap:round;stroke-linejoin:round;stroke-width:.52917;stroke:#a0a5af"/>
+   <path d="m29.129 30.141-1.8546 1.0707" style="fill:#728dbe;stroke-linecap:round;stroke-linejoin:round;stroke-width:.52917;stroke:#a0a5af"/>
+   <path d="m29.129 31.212-1.8546-1.0707" style="fill:#728dbe;stroke-linecap:round;stroke-linejoin:round;stroke-width:.52917;stroke:#a0a5af"/>
+   <path d="m25.556 33.055v2.1415" style="fill:#728dbe;stroke-linecap:round;stroke-linejoin:round;stroke-width:.52917;stroke:#a0a5af"/>
+   <path d="m26.484 33.59-1.8546 1.0707" style="fill:#728dbe;stroke-linecap:round;stroke-linejoin:round;stroke-width:.52917;stroke:#a0a5af"/>
+   <path d="m26.484 34.661-1.8546-1.0707" style="fill:#728dbe;stroke-linecap:round;stroke-linejoin:round;stroke-width:.52917;stroke:#a0a5af"/>
+   <path d="m20.522 33.055v2.1415" style="fill:#728dbe;stroke-linecap:round;stroke-linejoin:round;stroke-width:.52917;stroke:#a0a5af"/>
+   <path d="m21.45 33.59-1.8546 1.0707" style="fill:#728dbe;stroke-linecap:round;stroke-linejoin:round;stroke-width:.52917;stroke:#a0a5af"/>
+   <path d="m21.45 34.661-1.8546-1.0707" style="fill:#728dbe;stroke-linecap:round;stroke-linejoin:round;stroke-width:.52917;stroke:#a0a5af"/>
+   <path d="m30.59 33.055v2.1415" style="fill:#728dbe;stroke-linecap:round;stroke-linejoin:round;stroke-width:.52917;stroke:#a0a5af"/>
+   <path d="m31.518 33.59-1.8546 1.0707" style="fill:#728dbe;stroke-linecap:round;stroke-linejoin:round;stroke-width:.52917;stroke:#a0a5af"/>
+   <path d="m31.518 34.661-1.8546-1.0707" style="fill:#728dbe;stroke-linecap:round;stroke-linejoin:round;stroke-width:.52917;stroke:#a0a5af"/>
+  </g>
+ </g>
+</svg>

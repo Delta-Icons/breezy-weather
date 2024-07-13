@@ -37,8 +37,8 @@ class DeltaMoonDrawable : Drawable() {
     private val mClearXfermode: Xfermode
 
     private val mColors = intArrayOf(
-        Color.rgb(189, 154, 255),
-        Color.rgb(140, 114, 189)
+        Color.rgb(114, 141, 190),
+        Color.rgb(154, 190, 255)
     )
     private var mAlpha: Float = 1f
     private var mBounds: Rect

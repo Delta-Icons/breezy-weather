@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192" height="192" version="1.1" viewBox="0 0 50.8 50.8" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="25.4" cy="25.4" r="23.283" style="fill:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:6.5972"/>
+ <path d="m33.96 32.329h1.1688c2.5657 0 2.6032 4.3884 0 4.3884h-8.176" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.976;stroke:#a0a5af"/>
+ <g transform="matrix(.92712 0 0 .92712 2.7794 -2.58)">
+  <g transform="matrix(.96253 0 0 .96253 -68.69 9.8167)">
+   <circle cx="102.12" cy="16.19" r="8.824" style="fill:#ccc;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1101"/>
+   <rect x="84.559" y="13.805" width="21.768" height="11.209" rx="0" ry="5.6045" style="fill:#ccc;stroke-linecap:round;stroke-linejoin:round;stroke-width:.98524"/>
+  </g>
+ </g>
+ <path d="m28.208 30.692h0.75173c1.6502 0 1.6743 2.8225 0 2.8225h-5.2585" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2709;stroke:#a0a5af"/>
+ <path d="m19.082 33.333h0.933c2.0481 0 2.0781 3.5031 0 3.5031h-6.5265" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5773;stroke:#a0a5af"/>
+</svg>

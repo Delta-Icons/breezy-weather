@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="768" height="768" version="1.1" viewBox="0 0 203.2 203.2" xmlns="http://www.w3.org/2000/svg">
+ <rect width="203.2" height="203.2" style="fill:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:5.2916"/>
+ <g transform="matrix(2.1254 0 0 2.1254 46.902 47.3)">
+  <g transform="translate(.0012481 -6.1214e-5)">
+   <g transform="matrix(.96253 0 0 .96253 -68.69 9.8167)">
+    <circle cx="102.12" cy="16.19" r="8.824" style="fill:#ccc;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.1101"/>
+    <rect x="84.559" y="13.805" width="21.768" height="11.209" rx="0" ry="5.6045" style="fill:#ccc;stroke-linecap:round;stroke-linejoin:round;stroke-width:.98524"/>
+   </g>
+  </g>
+  <path d="m11.124 28.374h13.384" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.6458;stroke:#a0a5af"/>
+  <path d="m26.962 32.866h13.384" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.6458;stroke:#a0a5af"/>
+  <path d="m29.021 28.499h6.1718" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.6458;stroke:#a0a5af"/>
+  <path d="m15.324 32.866h6.1718" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.6458;stroke:#a0a5af"/>
+ </g>
+</svg>
